@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+
+.logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, apple-system, Helvetica, Arial, Helvetica, sans-serif;
+    background: #23232e;
+    height: 8vh;
+}
+
+.nav-list {
+
+    list-style: none;
+    display: flex;
+
+}
+
+.nav-list li {
+
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
+
+.h1-index {
+    text-align: center;
+    font-size: 100px;
+}
+
+p {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+}
+
+html,
+body {
+    min-height: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+footer {
+    position: unset;
+    bottom: 0;
+    background-color: #23232e;
+    color: #FFF;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.h1-html {
+    text-align: center;
+    font-size: 100px;
+}
+
+.p-html {
+    text-align: center;
+    font-size: 40px;
+}
+
+.h2-html {
+    text-align: center;
+}
+
+
+.center-html {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.h1-form {
+    text-align: center;
+    font-size: 100px;
+}
+
+.p-form {
+    text-align: center;
+    font-size: 50px;
+}
+
+.h2-form {
+    text-align: center;
+    font-size: 45px;
+}
+
+.h3-form {
+    text-align: center;
+    font-size: 45px;
+}
+
+.center-form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.h1-contato {
+    text-align: center;
+    font-size: 100px;
+}
+
+.p-contato {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+.h2-contato {
+    text-align: center;
+}
+
+.h1-cpp {
+    text-align: center;
+    font-size: 100px;
+}
+
+.p-cpp {
+    text-align: center;
+    font-size: 40px;
+}
+
+.h2-cpp {
+    text-align: center;
+}
+
+.center-cpp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 0%;
+}
+
+.h1-java {
+    text-align: center;
+    font-size: 100px;
+}
+
+.p-java {
+    text-align: center;
+    font-size: 10px;
+}
+
+.center-java {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.h1-css {
+    text-align: center;
+    font-size: 100px;
+}
+
+.p-css {
+    text-align: center;
+    font-size: 40px;
+}
+
+.h2-css {
+    text-align: center;
+}
+
+.center-css {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.h1-proj {
+    text-align: center;
+    font-size: 100px;
+    color: #23232e;
+}
+
+.p-proj {
+    text-align: center;
+    font-size: 30px;
+}
+
+.h2-proj {
+    text-align: center;
+    font-size: 40px;
+}
+
+.center-proj {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.h1-pro {
+    text-align: center;
+    font-size: 100px;
+}
+
+.p-pro {
+    text-align: center;
+    font-size: 50px;
+}
+
+.h2-pro {
+    text-align: center;
+}
+
+
+.center-pro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
