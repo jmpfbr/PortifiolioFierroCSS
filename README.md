@@ -1,3 +1,3 @@
 # PortifiolioGranberyCSS
 
-Projeto Educacional com HTML e CSS
+Site de Portifólio Fictício programado em CSS e HTML
