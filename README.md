@@ -1,3 +1,3 @@
 # PortifiolioFierroCSS
 
-Site de Portifólio Eduacacional/Fictício programado em CSS e HTML
+Site de Portifólio fictício programado em CSS e HTML
